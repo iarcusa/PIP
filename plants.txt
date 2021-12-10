@@ -1,0 +1,54 @@
+Common name: Poison Ivy
+Scientific name: Toxicodendron radicans
+States: Alabama, Arizona, Arkansas, Colorado, Connecticut, Delaware, Florida, Georgia, Idaho, Illinois, Indiana, Iowa, Kansas, Kentucky, Louisiana, Maine, Maryland, Massachusetts, Michigan, Minnesota, Mississippi, Missouri, Montana, Nebraska, Nevada, New Hampshire, New Jersey, New Mexico, New York, North Carolina, North Dakota, Ohio, Oklahoma, Oregon, Pennsylvania Rhode Island, South Carolina, South Dakota, Tennessee, Texas, Utah, Vermont, Virginia, Washington, West Virginia, Wisconsin, Wyoming
+Reactive to skin: Yes
+Reactive to digestive system: No
+Reacitve to nervous system: No
+Reactive to cardiac system: No
+Reactive to respiratory system: No
+Details: Physical contact with poison ivy usually results in a skin rash, although some people do not have this allergic reaction. However, exposure can be serious and lead to anaphalaxis if not treated.
+If exposed: DO NOT SCRATCH. Keep exposed area clean and treat with anti-itch steroid creams. If symptoms do not subside in 1-4 weeks or get worse, seek medical attention.
+
+Common name: Poison Oak
+Scientific name: Toxicodendron diversilobum
+States: Illinois, Missouri, Kansas, Oklahoma, Texas, Louisiana, Alabama, Arkansas, Mississippi, Georgia, Florida, North Carolina, South Carolina, Tennessee, Virginia, West Virginia, New Jersey, Washington, Oregon, California, Nevada
+Reactive to skin: Yes
+Reactive to digestive system: No
+Reacitve to nervous system: No
+Reactive to cardiac system: No
+Reactive to respiratory system: Yes
+Details: Allergic skin rashes from poison oak appear after touching the leaves or stem or inhalation of smoke from burning these plants.
+If exposed: DO NOT SCRATCH. Keep exposed area clean and treat with anti-itch steroid creams. If symptoms do not subside in 1-4 weeks or get worse, seek medical attention.
+
+Common name: Poison Sumac
+Scientific name: Toxicodendron vernix
+States: Texas, Minnesota, Wisconson, Illinois, Louisiana, Alabama, Arkansas, Mississippi, Georgia, Florida, Tennessee, South Carolina, North Carolina, Indiana, Ohio, Kentucky, Michigan, Virginia, West Virginia, Pennsylvania, New York, Maine, Vermont, New Hampshire, New Jersey, Massachusetts, Rhode Island
+Reactive to skin: Yes
+Reactive to digestive system: No
+Reacitve to nervous system: No
+Reactive to cardiac system: No
+Reactive to respiratory system: Yes
+Details: Allergic skin rashes from poison sumac appear after touching the leaves or inhalation of smoke from burning these plants.
+If exposed: If physically touched poison sumac, DO NOT SCRATCH. Keep exposed area clean and treat with anti-itch steroid creams. If symptoms do not subside in 1-4 weeks or get worse, seek medical attention. If smoke of burned poison sumac is inhaled, seek medical attention right away.
+
+Common name: Giant Hogweed
+Scientific name: Heracleum mantegazzium
+States: New York, Pennsylvania, Ohio, Maryland, Oregon, Washington, Michigan, Virginia, Vermont, New Hampshire, Maine
+Reactive to skin: Yes
+Reactive to digestive system: No
+Reactive to nervous system: No
+Reactive to cardiac system: No
+Reactive to respiratory system: No
+Details: The sap from giant hogweed is phototoxic, which means that touching the sap strips away the skin's defense against sunlight. This species is particularly dangerous because it looks a lot like its less toxic cousing, Queen Anne's Lace. You can tell the difference by looking for a dot of purple flowers in the center of the white flower cap--that's the sign of Queen Anne's Lace.
+If exposed: If skin contact was made with giant hogweed or its sap, wash affected area immediately with soap and cold water. Keep skin away from sunlight until inflammation subsides.
+
+Common name: Pokeweed
+Scientific name: Phytolacca americana
+States: Oregon, Washington, California, Arizona, New Mexico, Texas, Nebraska, Oklahoma, Kansas, Minnesota, Iowa, Missouri, Louisiana, Arkansas, Wisconsin, Illinois, Tennessee, Mississippi, Michigan, Ohio, Indiana, Kentucky, Alabama, Pennsylvania, West Virginia, North Carolina, South Carolina, Georgia, Florida, New York, New Jersey, Vermont, Rhode Island, Maine, Massachusetts, Maryland
+Reactive to skin: Yes
+Reactive to digestive system: Yes
+Reactive to nervous system: No
+Reactive to cardiac system: Yes
+Reactive to respiratory system: Yes
+Details: The stem, leaves, and berries of pokeweed are known emetics, which induce vomitting upon consumption. Eating raw pokeweed can also cause bloody diarrhea, convulsions, heart problems, and paralysis of respiratory organs. The sap can also cause allergic reactions in people with sensitive skin.
+If exposed: If consumed, SEEK IMMEDIATE MEDICAL ATTENTION. If sap has caused an allergic skin reaction, keep infected area clean and treat with anti-itch steroid creams.  
